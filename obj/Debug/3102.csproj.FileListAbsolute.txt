@@ -1,0 +1,10 @@
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\bin\Debug\3102.exe.config
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\bin\Debug\3102.exe
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\bin\Debug\3102.pdb
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\obj\Debug\3102.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\obj\Debug\_3102.Form1.resources
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\obj\Debug\_3102.Properties.Resources.resources
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\obj\Debug\3102.csproj.GenerateResource.Cache
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\obj\Debug\3102.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\obj\Debug\3102.exe
+C:\Users\Mirim\Desktop\3104 정보보호\3102\3102\obj\Debug\3102.pdb
